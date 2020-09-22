@@ -1,0 +1,48 @@
+.reportes{
+    display: flex;
+    flex-direction: row;
+}
+.categorias{
+    height: 603px;
+    width: 25%;
+    box-shadow: 0px 2px 6px #00000059;
+    margin: 18px 0 0 16px;
+}
+.categorias h3{
+    color: #1B0088;
+    font-size: 22px;
+    margin: 15px 0 0 24px;
+}
+.categorias ul{
+    height: 537px;
+    margin: 9px 11px 11px 11px;
+    border: 1px solid #BFBFBF;
+    list-style: none;
+}
+.categorias a{
+    text-decoration: none;
+}
+.categorias li{
+    background: url("../../../assets/images/folder.png") no-repeat top center;
+    padding-top: 50px;
+    float: left;
+    width: 63px;  /* Ancho de la imagen */
+    margin: 20px 10px 20px 30px;
+    color: #666666;
+    font-size: 11px;
+}
+.categoria{
+    width: 70%;
+    height: 603px;
+    margin: 18px 2% 0 15px;
+    box-shadow: 0px 2px 6px #00000059 ;
+}
+    
+h2{
+    color: #000000;
+    background: url("../../../assets/images/reportes_red.svg") no-repeat center left;
+    padding-left: 24px;
+    font-size: 28px;
+    margin-left: 3%;
+    border-bottom: 1px solid #ED1650;
+}

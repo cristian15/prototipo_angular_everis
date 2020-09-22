@@ -1,0 +1,64 @@
+
+h3 {
+    color: #1D0088;
+    font-size: 22px;
+    margin: 15px 0 0 23px;
+}
+select {
+    margin: 32px 0 0 23px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    height: 39px;
+    width: 159px;
+    font-size: 11px;
+    color: #333333;
+    border-radius: 5px;
+}
+button {
+    background: #E9124C 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    width: 120px;
+    height: 34px;
+    color: #FFFFFF;
+    font-size: 12px;
+    border: none;
+}
+form {
+    width: 95%;
+    height: 75%;
+    border: 1px solid #BFBFBF;
+    margin: 26px 11px 11px 10px
+}
+form input {
+    margin: 34px 0 0 34px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    height: 39px;
+    width: 178px;
+    font-size: 13px;
+    color: #333333;
+    border-radius: 5px;
+    padding-left: 16px;            
+}
+ form button {
+    position: flex;
+    float: right;
+    margin: 200px 34px 0px 10px;
+}
+h4 {
+    color: #0AAFA9;
+    font-size: 18px;
+    margin: 19px 0 0 22px;
+}
+.btn-ejecutar {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border: 1px solid #0AAFA9;
+    color: #0AAFA9;
+}
+#btn-periodo{
+    background: url("../../../assets/images/calendario.svg") no-repeat right center;            
+}
+#btn-archivo{
+    background: url("../../../assets/images/btn-upload.svg") no-repeat right center;            
+}
